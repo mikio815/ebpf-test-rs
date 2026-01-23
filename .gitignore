@@ -2,3 +2,5 @@ target
 **/*.o
 **/*.skel.rs
 vmlinux.h
+
+cheat.dat
