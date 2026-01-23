@@ -27,7 +27,7 @@ sudo target/debug/loader
 
 ## Lima-vm
 
-Lima-vm([https://github.com/lima-vm/lima])を使って実行する
+[Lima-vm](https://github.com/lima-vm/lima)を使って実行する
 
 ### VMの立ち上げ
 
