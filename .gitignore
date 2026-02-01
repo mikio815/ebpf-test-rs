@@ -1,4 +1,5 @@
 target
+*.dSYM
 **/*.o
 **/*.skel.rs
 vmlinux.h
