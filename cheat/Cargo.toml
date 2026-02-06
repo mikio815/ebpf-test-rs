@@ -1,0 +1,9 @@
+[package]
+name = "cheat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nix = { version = "0.27", features = ["ptrace", "process"] }
+object = "0.32"
+libc = "0.2"
